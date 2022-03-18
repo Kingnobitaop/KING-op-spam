@@ -1,7 +1,7 @@
 # TSF SPAMMER
 
 <p align="center">
-  <img src="https://telegra.ph/file/8c074c91d1546acab4904.jpg">
+  <img src="https://telegra.ph/file/53079566f34c74ea7a2bd.jpg">
 </p>
 
 
