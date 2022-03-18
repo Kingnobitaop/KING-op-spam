@@ -1546,11 +1546,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "Pong!"
+        text = "KING NOBITA HERE!"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"😁 🇵 🇴 🇳 🇬 !\n`{ms}` 𝗺𝘀")
+        await event.edit(f"🖕🏻🔥✨ CHAL BABY CHODTE INHE !\n`{ms}` 𝗺𝘀")
 
 
     
@@ -1800,8 +1800,8 @@ async def help(e):
         
 text = """
 
-💥💥CONGRATULATIONS UR SAVAGE SPAM BOT IS READY💥💥💥
-💥💥💥💥💥💥 BY OP SAMEER 💥💥💥💥💥💥"""
+💥🔥💥CONGRATULATIONS UR KING NOBITA BOT IS READY💥🔥💥
+💥👀💥💔💥👅 BY KING NOBITA 💥🖕🏻💥❤️💥✨"""
 
 print(text)
 print("")
